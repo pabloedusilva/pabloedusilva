@@ -1,14 +1,14 @@
-# Olá, eu sou Pablo! 👋
+# Olá, eu sou Pablo!
 
-Bem-vindo ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e programação. Aqui, você encontrará alguns dos meus projetos, contribuições e ideias.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui, você encontrará alguns dos meus projetos, contribuições e ideias.
 
 ## 💻 Sobre Mim
 
-- 🔭 Atualmente, estou trabalhando em projetos de [tecnologia ou área de interesse].
-- 🌱 Estou aprendendo mais sobre [tecnologias ou linguagens que você está estudando].
-- 👯 Estou procurando colaborar em projetos de [temas ou tecnologias específicas].
-- 💬 Pergunte-me sobre [assuntos que você domina].
-- 📫 Como me encontrar: [seu email ou outra forma de contato].
+- 🔭 Atualmente, estou trabalhando em projetos em HTML5.
+- 🌱 Estou aprendendo mais sobre HTML5, CSS, JAVA, C#.
+- 📫 Como me encontrar: [pablo.silva.edu@gmail.com.
+- 🛒 Tenho uma Loja Virtual voltadas no stilo StreetWear.  **Siga minha Loja!👉** [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/seu_usuario)
+
 
 ## 🚀 Tecnologias & Ferramentas
 
