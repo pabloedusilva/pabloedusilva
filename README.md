@@ -36,5 +36,3 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Agradeço por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
 
 ---
-
-✨ *"A programação é a arte de pensar e criar." - Pablo* ✨
