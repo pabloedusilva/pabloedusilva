@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 Atualmente, estou trabalhando em projetos em HTML5.
 - 🌱 Estou aprendendo mais sobre HTML5, CSS, JAVA, C#.
 - 📫 Como me encontrar: pablo.silva.edu@gmail.com.  
-- 🛒 Tenho uma Loja Virtual voltada para o estilo StreetWear. **Siga minha Loja!👉** [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/P4blozz__)
+- 🛒 Tenho uma Loja Virtual voltada para o estilo StreetWear. **Siga minha Loja!👉** [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/newhope_streetwear)
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🌍 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/P4blozz__)
 
 ## 🎉 Agradecimentos
 
