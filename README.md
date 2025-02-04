@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🔭 Atualmente, estou trabalhando em projetos em HTML5.
 - 🌱 Estou aprendendo mais sobre HTML5, CSS, JAVA, C#.
 - 📫 Como me encontrar: pablo.silva.edu@gmail.com.  
-- 🛒 Tenho uma Loja Virtual voltada para o estilo StreetWear. **Siga minha Loja!** [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+- 🛒 Tenho uma Loja Virtual voltada para o estilo StreetWear. [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
 
 ## 🚀 Tecnologias & Ferramentas
 
