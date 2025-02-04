@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Pablo! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e programação. Aqui, você encontrará alguns dos meus projetos, contribuições e ideias.
 
@@ -14,20 +14,20 @@ Bem-vindo ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+
+C# .NET
 
 ## 🌟 Projetos em Destaque
 
-- [Projeto 1](link-do-projeto-1) - Uma breve descrição do projeto.
-- [Projeto 2](link-do-projeto-2) - Uma breve descrição do projeto.
-- [Projeto 3](link-do-projeto-3) - Uma breve descrição do projeto.
+- [Super Mario UP - PPT](https://github.com/pabloedusilva/SuperMario_PowerPoint) - Super Mario UP PowerPoint é um jogo interativo em PowerPoint que utiliza VBA e macros.
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?pabloedusilva-github&show_icons=true&theme=dark)
 
 ## 🌍 Conecte-se Comigo
 
@@ -40,4 +40,4 @@ Agradeço por visitar meu perfil! Fique à vontade para explorar meus projetos e
 
 ---
 
-✨ *"A programação é a arte de pensar e criar." - [Seu Nome]* ✨
+✨ *"A programação é a arte de pensar e criar." - Pablo* ✨
