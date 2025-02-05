@@ -20,7 +20,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🌟 Projetos em Destaque
 
-- [Super Mario UP - PPT](https://github.com/pabloedusilva/SuperMario_PowerPoint) - Super Mario UP PowerPoint é um jogo interativo em PowerPoint que utiliza VBA e macros.
+- **[Super Mario UP - PPT](https://github.com/pabloedusilva/SuperMario_PowerPoint)** - Super Mario UP PowerPoint é um jogo interativo em PowerPoint que utiliza VBA e macros.
+- **[Ultimate Ping Pong](https://github.com/pabloedusilva/PingPongConstruct)** - É um jogo interativo de Ping-Pong, desenvolvido no Cosntruct2, em que jogadores controlam uma raquete para rebater uma bola e marcar pontos.
 
 ## 📈 Estatísticas do GitHub
 
