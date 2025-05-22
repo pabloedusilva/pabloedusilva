@@ -41,3 +41,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;&color=00ADB5" />
 </h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/04b4cdde-83a9-483f-b4ae-eca4e0f56386" alt="rick" width="250"/>
+</div>
+
