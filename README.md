@@ -13,7 +13,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Linguagens,+Frameworks+e+Ferramentas" alt="Linguagens, Frameworks e Ferramentas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Linguagens%2C+Frameworks+e+Ferramentas" alt="Linguagens, Frameworks e Ferramentas" />
 </h2>
 <br>
 <div align="center" >
@@ -21,7 +21,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&height=50&lines=GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=F08A5D&center=true&vCenter=true&width=700&lines=GitHub+Stats+%2F+Estat%C3%ADsticas" alt="GitHub Stats" />
 </h2>
 <br>
 <div align="center">
