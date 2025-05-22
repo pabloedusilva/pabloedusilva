@@ -12,13 +12,17 @@
   </a>
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Linguagens,+Frameworks+e+Ferramentas" alt="Linguagens, Frameworks e Ferramentas" />
+</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github,cs,git,nodejs" />
 </div>
 
-<h2 align="center">⚡Stats⚡</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&height=50&lines=GitHub+Stats" alt="GitHub Stats" />
+</h2>
 <br>
 <div align="center">
   <picture>
