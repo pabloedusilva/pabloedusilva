@@ -24,17 +24,10 @@
 </h2>
 <br>
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pabloedusilva&show_icons=true&theme=dark&hide_title=true&count_private=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=pabloedusilva&show_icons=true&theme=default&hide_title=true&count_private=true" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=pabloedusilva&show_icons=true&theme=default&hide_title=true&count_private=true" 
-      alt="GitHub Stats" />
-  </picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloedusilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloedusilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 </div>
 
 <br>
