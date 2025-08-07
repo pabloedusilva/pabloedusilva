@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Pablo!;&color=F08A5D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Hello!+👋;&color=F08A5D" />
 </h1>
+
+## *Pablo Eduardo Silva*
+Sou um desenvolvedor apaixonado por tecnologia com formação em Análise e Desenvolvimento de Sistemas. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, criando soluções inovadoras e funcionais.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Acesse_Meu_Portfólio-0000FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=2D3748)](https://pabloedusilva.github.io)
+
+</div>
 
 <div align="center">
   <a href="mailto:pablo.silva.edu@gmail.com" title="Gmail" target="_blank">
