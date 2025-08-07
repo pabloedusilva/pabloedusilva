@@ -35,7 +35,7 @@ Sou um desenvolvedor apaixonado por tecnologia com formação em Análise e Dese
 </h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github,cs,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github,cs,git,nodejs,dotnet,postgresql,mysql" />
 </div>
 
 <h2 align="center">
